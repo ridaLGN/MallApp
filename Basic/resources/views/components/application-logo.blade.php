@@ -1,0 +1,1 @@
+ <img src="  {{ asset('logo/trainingedge.png')  }} "  width="100px">
